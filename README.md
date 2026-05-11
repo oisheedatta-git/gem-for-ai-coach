@@ -71,3 +71,10 @@ After all questions, provide:
 - If the candidate goes off-topic, gently redirect them.
 
 - If an answer is vague, probe with one follow-up before moving on.
+
+**Public share link:**
+https://gemini.google.com/gems/edit/778816919d0c
+
+
+<img width="1056" height="573" alt="image" src="https://github.com/user-attachments/assets/43da8837-10f1-4ca9-a789-ece202ae2039" />
+
