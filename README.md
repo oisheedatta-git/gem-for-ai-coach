@@ -78,3 +78,8 @@ https://gemini.google.com/gems/edit/778816919d0c
 
 <img width="1056" height="573" alt="image" src="https://github.com/user-attachments/assets/43da8837-10f1-4ca9-a789-ece202ae2039" />
 
+
+<img width="712" height="460" alt="image" src="https://github.com/user-attachments/assets/b4595b84-915d-42ce-ac2d-f7b1e1df3d72" />
+
+<img width="794" height="538" alt="image" src="https://github.com/user-attachments/assets/16d48352-9efe-4e26-b118-54378e07cd79" />
+
